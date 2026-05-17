@@ -2,7 +2,7 @@ SmartAgro AI is a full-stack IoT-based precision agriculture and smart irrigatio
 farmers monitor crop conditions, automate irrigation, and optimize water usage using real-time telemetry
 and AI-driven insights.
 
- Features:
+ Features: 
 Real-time IoT sensor monitoring
 Automated smart irrigation
 AI-powered crop recommendations
