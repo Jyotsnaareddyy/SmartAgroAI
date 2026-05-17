@@ -1,0 +1,25 @@
+# Python
+venv/
+backend/venv/
+backend/venv312/
+__pycache__/
+*.pyc
+
+# Flutter
+.dart_tool/
+build/
+
+# VS Code
+.vscode/
+
+# Firebase
+firebase-debug.log
+
+# Environment files
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
